@@ -1,7 +1,5 @@
 # Loan Approval Prediction: A Machine Learning Project  
 
-## **PART 2 – LOAN APPROVAL QUESTION**  
-
 ### **INTRODUCTION**  
 This study aims to address two key questions:  
 1. Which machine learning models can improve classification performance in predicting loan approvals?  
