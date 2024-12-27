@@ -1,0 +1,5 @@
+,,count,unique,top,freq
+,person_home_ownership,91226,4,RENT,47040
+,loan_intent,91226,6,EDUCATION,18724
+,loan_grade,91226,7,A,31761
+,cb_person_default_on_file,91226,2,N,76779
