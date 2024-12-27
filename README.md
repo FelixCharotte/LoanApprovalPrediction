@@ -7,6 +7,8 @@ This study aims to address two key questions:
 
 The experiment leverages advanced machine learning techniques to enhance loan approval prediction accuracy. Initial analyses are performed using various decision-tree-based models. A stacked ensemble approach is later applied, combining LightGBM, XGBoost, and CatBoost to achieve superior classification performance. A feature importance analysis was conducted to uncover the factors most critical to the decision-making process for loan approvals.  
 
+This project is based on the [Kaggle Playground Series S4E10 Competition](https://www.kaggle.com/competitions/playground-series-s4e10/data?select=test.csv), where the objective is to build a model to predict loan approval.
+
 This analysis offers actionable insights into financial credit evaluations, potentially improving both predictive models and the bank's decision-making framework.
 
 ---
